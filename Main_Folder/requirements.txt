@@ -1,0 +1,9 @@
+streamlit>=1.30.0 #Web Interface
+pydantic>=2.5.1 #Data Validation
+python-dotenv>=1.0.0 #Security
+langchain>=0.1.0 # Agent Framework #AI Agent System তৈরি করে,LangChain হলো একটি জনপ্রিয় open-source framework যা LLM (Large Language Models) এবং AI agents এর সাথে কাজ করার জন্য ব্যবহৃত হয়। এটি বিভিন্ন tools, utilities, এবং abstractions প্রদান করে যা AI মডেলকে বিভিন্ন কাজ সম্পাদন করতে সাহায্য করে, যেমন তথ্য অনুসন্ধান, ডেটা প্রসেসিং, এবং আরও অনেক কিছু।
+google-generativeai>=0.1.0 #Gemini AI Access #Google Gemini AI এর সাথে Connect করে
+langchain-google-genai>=0.1.0 # Integration# LangChain এবং Gemini কে Connect করে
+wikipedia-api>=1.5.0 # Data Source #Wikipedia থেকে তথ্য নিয়ে আসে
+
+#Virtual Environment হলো তোমার Project এর "প্রাইভেট ওয়ার্কস্পেস":যেখানে শুধু তোমার প্রয়োজনীয় Tools,এবং Equipment থাকে, অন্য Projects এর জিনিসপত্র Interfere করতে পারে না

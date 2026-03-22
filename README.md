@@ -32,7 +32,6 @@
 - [License](#license)
 
 ---
-<img src="image.jpg" alt="window_picture1.png" width="300">
 
 ## Overview
 

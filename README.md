@@ -35,43 +35,11 @@
 
 ## Overview
 
-This repository contains two major AI‑driven projects:
-
-1. **AI Games Hub** – Classic board games (Chess, Nim, Tic Tac Toe) with AI opponents using algorithms like Minimax and Alpha‑Beta Pruning.
-2. **Gemini Research Agent** – A web‑based research assistant powered by Google’s Gemini AI, LangChain, and Streamlit. It can search the web, retrieve Wikipedia summaries, and save structured research data.
-
-Both projects are built with Python and demonstrate practical applications of AI in gaming and information retrieval.
+**Gemini Research Agent** – A web‑based research assistant powered by Google’s Gemini AI, LangChain, and Streamlit. It can search the web, retrieve Wikipedia summaries, and save structured research data.
 
 ---
 
 ## Projects
-
-### 🎮 AI Games Hub
-
-A collection of three classic games featuring unbeatable or challenging AI opponents. Each game has its own folder with detailed documentation.
-
-| Game          | Description                                                                 | AI Technique                     |
-|---------------|-----------------------------------------------------------------------------|----------------------------------|
-| **Chess**     | Full chess game with GUI, move validation, and AI opponent.                | Minimax with Alpha-Beta Pruning |
-| **Nim**       | Mathematical strategy game where players remove objects from piles.        | Minimax with depth limiting      |
-| **Tic Tac Toe** | Classic 3×3 board game against an unbeatable AI.                          | Minimax Algorithm                |
-
-#### Chess
-- **Location:** `/chess/`
-- **Run:** `python chess_game.py`
-- **Dependencies:** `pygame`, `chess`
-
-#### Nim
-- **Location:** `/nim/`
-- **Run:** `python nim_game.py`
-- **Dependencies:** Tkinter (built-in)
-
-#### Tic Tac Toe
-- **Location:** `/tic_tac_toe/`
-- **Run:** `python tic_tac_toe.py`
-- **Dependencies:** Tkinter (built-in)
-
----
 
 ### 🌐 Gemini Research Agent
 

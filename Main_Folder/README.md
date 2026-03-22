@@ -23,6 +23,8 @@
 
 The Main Application is the brain of Gemini Research Agent - a sophisticated web interface built with Streamlit that provides AI-powered research capabilities using LangChain and Gemini AI. Transform your research workflow with this intelligent assistant.
 
+<img src="image.jpg" alt="window_picture1.png" width="300">
+
 ## 🚀 Quick Start
 
 ### Prerequisites
